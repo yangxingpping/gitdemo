@@ -1,8 +1,11 @@
 
 #include <map>
+#include <vector>
+
 #include <iostream>
 using std::map;
 using namespace std;
+using std::vector;
 
 int main() {
     cout << "Hello, World!" << endl;
